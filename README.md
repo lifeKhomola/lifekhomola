@@ -10,7 +10,8 @@
 
 - :seedling: Exploring Technical solutions to today's world problems.
 
-- :mailbox:How to reach me: <img href="https://www.linkedin.com/in/vhutshilo-khomola-485388206/" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>&nbsp;/>
+ - :mailbox:How to reach me: <a  href="https://www.linkedin.com/in/vhutshilo-khomola-485388206/">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>&nbsp;</a>
  
 </div>
 
