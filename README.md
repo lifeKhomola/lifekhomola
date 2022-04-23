@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div>
+
  👨‍💻: About Me :
  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa,Johannesburg.<br>
  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -12,8 +13,11 @@
 
  - :mailbox:How to reach me: <a  href="https://www.linkedin.com/in/vhutshilo-khomola-485388206/">
  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30" height="20"/>&nbsp;</a>
- 
+ <img src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611df8e78e980536d14c106750945ceb13959b9e532&rid=giphy.gif&ct=g" width="20%" height="20%" align="right" />&nbsp;
 </div>
+
+
+
 
 <br>
 <br>
