@@ -9,7 +9,7 @@
  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa,Johannesburg.<br>
  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical solutions to today's world problems.
+- :seedling: Exploring Technical solutions to today's world problems🚀.
 
  - :mailbox:How to reach me: <a  href="https://www.linkedin.com/in/vhutshilo-khomola-485388206/">
  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30" height="20"/>&nbsp;</a>
