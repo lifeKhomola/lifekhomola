@@ -11,13 +11,13 @@
  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical solutions to today's world problems🚀.
- <img src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611df8e78e980536d14c106750945ceb13959b9e532&rid=giphy.gif&ct=g" width="20%" height="20%" align="right" />&nbsp;
+
  - :mailbox:How to reach me: <a  href="https://www.linkedin.com/in/vhutshilo-khomola-485388206/">
  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30" height="20"/>&nbsp;</a>
 
 </div>
 
-
+ <img src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611df8e78e980536d14c106750945ceb13959b9e532&rid=giphy.gif&ct=g" width="20%" height="20%" align="right" />&nbsp;
 
 
 <br>
